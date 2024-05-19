@@ -1,0 +1,12 @@
+employee_id,employee_name,employee_role,manager_id
+1,CEO,CEO,None
+2,Manager A,Manager,1
+3,Employee A,Employee,2
+4,Employee B,Employee,2
+5,Employee C,Employee,2
+6,Manager B,Manager,1
+7,Employee D,Employee,6
+8,Employee E,Employee,6
+9,Supervisor A,Supervisor,2
+10,Employee F,Employee,9
+11,Employee G,Employee,9
